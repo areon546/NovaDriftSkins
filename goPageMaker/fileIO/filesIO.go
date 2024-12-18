@@ -7,6 +7,8 @@ import (
 	"os"
 	"reflect"
 	"strings"
+
+	"github.com/areon546/NovaDriftCustomSkins/goPageMaker/helpers"
 )
 
 // ~~~~~~~~~~~~~~~~ File
@@ -45,7 +47,7 @@ func splitFileName(filename string) (name, suffix string) {
 }
 
 func (f *File) GetFileName() string {
-	return (fmt.Sprintf("%s.%s", f.filename, f.suffix))
+	return helpers.Format("%s.%s", f.filename, f.suffix)
 }
 
 func (f *File) GetContents() []string {

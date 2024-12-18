@@ -242,6 +242,8 @@ func (a *AssetsPage) bufferCustomSkins() {
 		a.AppendMarkdownEmbed(fileIO.ConstructPath(path, "custom_skins", skin.drone))
 		// TODO append links to media  but how do we determine if there are media files?
 
+		a.AppendMarkdownLink("Download Me", fileIO.ConstructPath(path, "assets", format("%s.zip", skin.name)))
+
 		a.AppendNewLine()
 	}
 }
@@ -250,7 +252,7 @@ func (a *AssetsPage) writeBuffer() {
 	a.WriteFile()
 
 	// print(a.contentBuffer)
-	print("Writing to: ", a)
+	helpers.Print("Writing to: ", a)
 }
 
 func (a *AssetsPage) addCustomSkins(cs []CustomSkin) {

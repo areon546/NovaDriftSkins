@@ -1,8 +1,6 @@
 package fileIO
 
-import (
-	"github.com/areon546/NovaDriftCustomSkins/goPageMaker/helpers"
-)
+import "github.com/areon546/NovaDriftCustomSkins/goPageMaker/helpers"
 
 // helper functions
 
