@@ -10,7 +10,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/balm.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/balm_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/balm_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Balm.zip)
 
 
 **Scimitar**: []()
@@ -20,7 +19,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/scimitar.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/scimitar_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/scimitar_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Scimitar.zip)
 
 
 **SE**: []()
@@ -30,7 +28,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/SEbody.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/SEforce.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/SE.zip)
 
 
 **BAD**: []()
@@ -40,7 +37,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/BAD.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/BAD_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/BAD_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/BAD.zip)
 
 
 **Lanius Cruiser**: []()
@@ -50,7 +46,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/LC.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/LC_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/LC_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Lanius Cruiser.zip)
 
 
 **Tracer**: []()
@@ -60,7 +55,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Tracer.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Tracer_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Tracer.zip)
 
 
 **Divine Avenger**: []()
@@ -70,7 +64,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/divineavenger.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/divineavenger_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Divine Avenger.zip)
 
 
 **Pew**: []()
@@ -80,7 +73,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/pewsquared.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/pewsquared_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Pew.zip)
 
 
 **Wyvern**: []()
@@ -90,7 +82,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/WyvernBody.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/WyvernForce.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Wyvern.zip)
 
 
 **Millenium Falcon**: []()
@@ -100,7 +91,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/millenium_falcon.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/millenium_falcon_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/millenium_falcon_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Millenium Falcon.zip)
 
 [Page_2](./Page_2.md)
 [Page_3](./Page_3.md)

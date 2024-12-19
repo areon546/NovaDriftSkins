@@ -10,7 +10,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/GalagaShip.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/GalagaShipShield.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Gyaraga.zip)
 
 
 **Freefall**: []()
@@ -20,7 +19,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/freefall.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/freefall_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/freefall_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Freefall.zip)
 
 
 **Minotaur**: []()
@@ -30,7 +28,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/minotaur.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/minotaur_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Minotaur.zip)
 
 [Page_4](./Page_4.md)
 [Page_5](./Page_5.md)

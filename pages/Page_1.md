@@ -9,7 +9,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/saris.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/saris_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/saris_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Saris.zip)
 
 
 **Orbiter**: []()
@@ -19,7 +18,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/orbiter.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/orbiter_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/orbiter_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Orbiter.zip)
 
 
 **Ultra C**: []()
@@ -29,7 +27,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/ultra_c.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/ultra_c_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/ultra_c_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Ultra C.zip)
 
 
 **Lobstar**: []()
@@ -39,7 +36,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/lobstar.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/lobstar_frame.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/lobstar_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Lobstar.zip)
 
 
 **PINGAS**: []()
@@ -49,7 +45,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/PINGAS_body.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/PINGAS_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/PINGAS.zip)
 
 
 **Skogul**: []()
@@ -59,7 +54,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/skogul.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/skogul_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/skogul_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Skogul.zip)
 
 
 **Lance**: []()
@@ -69,7 +63,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/lance.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/lance_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Lance.zip)
 
 
 **Thunderax**: []()
@@ -79,7 +72,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/thunderax.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/thunderax.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Thunderax.zip)
 
 
 **Dragon**: []()
@@ -89,7 +81,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/dragon.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/dragon_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Dragon.zip)
 
 
 **Spike**: []()
@@ -99,7 +90,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/spike.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/spike_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/spike_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Spike.zip)
 
 [Page_1](./Page_1.md)
 [Page_2](./Page_2.md)

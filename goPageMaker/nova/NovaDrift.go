@@ -224,7 +224,7 @@ func (a *AssetsPage) bufferPrevNextPage() error {
 	return nil
 }
 
-func (a *AssetsPage) bufferCustomSkins() {
+func (a *AssetsPage) bufferCustomSkins(download bool) {
 	// this writes to the custom skins stuff and adds the data, in markdown
 	path := "https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main"
 
@@ -242,7 +242,9 @@ func (a *AssetsPage) bufferCustomSkins() {
 		a.AppendMarkdownEmbed(fileIO.ConstructPath(path, "custom_skins", skin.drone))
 		// TODO append links to media  but how do we determine if there are media files?
 
-		a.AppendMarkdownLink("Download Me", fileIO.ConstructPath(path, "assets", format("%s.zip", skin.name)))
+		if download {
+			a.AppendMarkdownLink("Download Me", fileIO.ConstructPath(path, "assets", format("%s.zip", skin.name)))
+		}
 
 		a.AppendNewLine()
 	}
@@ -284,7 +286,7 @@ func ConstructAssetPages(skins []CustomSkin) (pages []AssetsPage) {
 		helpers.Handle(err)
 
 		a.addCustomSkins(skinSlice)
-		a.bufferCustomSkins()
+		a.bufferCustomSkins(false)
 		a.bufferPageSuffix()
 
 		pages = append(pages, *a)
@@ -318,4 +320,8 @@ func getNextSlice(skins []CustomSkin, i int) (subset []CustomSkin, err error) {
 	}
 
 	return skins[min:max], err
+}
+
+func ConstructZipFiles(skins []CustomSkin) []fileIO.File {
+	return make([]fileIO.File, 0)
 }

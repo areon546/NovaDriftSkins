@@ -10,7 +10,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/curvewing.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/curvewing_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/curvewing_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Curvewing.zip)
 
 
 **Beholder**: []()
@@ -20,7 +19,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Behold.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Behold_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Behold_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Beholder.zip)
 
 
 **Razorflight**: []()
@@ -30,7 +28,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/razorflight.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/razorflight_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Razorflight.zip)
 
 
 **Squidship**: []()
@@ -40,7 +37,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Squidship.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Squidship_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Squidship_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Squidship.zip)
 
 
 **Executor**: []()
@@ -50,7 +46,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Executor.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Executor_Force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Executor.zip)
 
 
 **Jester**: []()
@@ -60,7 +55,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Jester.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Jester_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/Jester_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Jester.zip)
 
 
 **Eater of Worlds**: []()
@@ -70,7 +64,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/eater_of_worlds.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/eater_of_worlds_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/eater_of_worlds_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Eater of Worlds.zip)
 
 
 **Lancer**: []()
@@ -80,7 +73,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/lancer.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/lancer_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/lancer_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Lancer.zip)
 
 
 **The Devil**: []()
@@ -90,7 +82,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/devil.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/devil_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/heart_mite.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/The Devil.zip)
 
 
 **Poly**: []()
@@ -100,7 +91,6 @@
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/poly.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/poly_force.png)
 ![](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/custom_skins/poly_drone.png)
-[Download Me](https://github.com/areon546/NovaDriftCustomSkinRepository/raw/main/assets/Poly.zip)
 
 [Page_3](./Page_3.md)
 [Page_4](./Page_4.md)
